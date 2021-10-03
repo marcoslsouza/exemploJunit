@@ -1,9 +1,9 @@
-package br.com.alura.tdd.service;
+package br.com.marcoslsouza.tdd.service;
 
 import java.math.BigDecimal;
 
-import br.com.alura.tdd.modelo.Desempenho;
-import br.com.alura.tdd.modelo.Funcionario;
+import br.com.marcoslsouza.tdd.modelo.Desempenho;
+import br.com.marcoslsouza.tdd.modelo.Funcionario;
 
 public class ReajusteService {
 

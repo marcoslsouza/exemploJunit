@@ -1,4 +1,4 @@
-package br.com.alura.tdd.service;
+package br.com.marcoslsouza.tdd.service;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
@@ -8,7 +8,8 @@ import java.time.LocalDate;
 
 import org.junit.jupiter.api.Test;
 
-import br.com.alura.tdd.modelo.Funcionario;
+import br.com.marcoslsouza.tdd.modelo.Funcionario;
+import br.com.marcoslsouza.tdd.service.BonusService;
 
 class BonusServiceTest {
 
